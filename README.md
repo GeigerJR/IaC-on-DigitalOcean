@@ -130,6 +130,3 @@ Created by Phillip (**GeigerJR**) — *Infrastructure as Code on AWS using Terra
 
 ---
 https://roadmap.sh/projects/iac-digitalocean
-
-<pre> ```mermaid flowchart TD A[Terraform CLI] --> B[AWS Cloud] B --> C[EC2 Instance] C --> D[Public IP Assigned] D --> E[SSH Access with Key Pair] A:::node B:::node C:::node D:::node E:::node classDef node fill:#4CAF50,stroke:#333,stroke-width:2px,color:#fff; ``` </pre>
-
